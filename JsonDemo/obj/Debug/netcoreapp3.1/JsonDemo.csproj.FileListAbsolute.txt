@@ -1,0 +1,17 @@
+C:\Users\saiku\source\repos\JsonDemo\JsonDemo\bin\Debug\netcoreapp3.1\JsonDemo.exe
+C:\Users\saiku\source\repos\JsonDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.csprojAssemblyReference.cache
+C:\Users\saiku\source\repos\JsonDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.AssemblyInfoInputs.cache
+C:\Users\saiku\source\repos\JsonDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.AssemblyInfo.cs
+C:\Users\saiku\source\repos\JsonDemo\JsonDemo\bin\Debug\netcoreapp3.1\JsonDemo.deps.json
+C:\Users\saiku\source\repos\JsonDemo\JsonDemo\bin\Debug\netcoreapp3.1\JsonDemo.runtimeconfig.json
+C:\Users\saiku\source\repos\JsonDemo\JsonDemo\bin\Debug\netcoreapp3.1\JsonDemo.runtimeconfig.dev.json
+C:\Users\saiku\source\repos\JsonDemo\JsonDemo\bin\Debug\netcoreapp3.1\JsonDemo.dll
+C:\Users\saiku\source\repos\JsonDemo\JsonDemo\bin\Debug\netcoreapp3.1\JsonDemo.pdb
+C:\Users\saiku\source\repos\JsonDemo\JsonDemo\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\saiku\source\repos\JsonDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.csproj.CopyComplete
+C:\Users\saiku\source\repos\JsonDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.dll
+C:\Users\saiku\source\repos\JsonDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.pdb
+C:\Users\saiku\source\repos\JsonDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.genruntimeconfig.cache
+C:\Users\saiku\source\repos\JsonDemo\JsonDemo\bin\Debug\netcoreapp3.1\Json.Net.dll
+C:\Users\saiku\source\repos\JsonDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.csproj.CoreCompileInputs.cache
+C:\Users\saiku\source\repos\JsonDemo\JsonDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

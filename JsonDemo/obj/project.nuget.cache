@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pwE1snvwyhDOvTRogkHkqn3KwQFHR1JgyO2QAhNzt17U3zu5GEL+V3R06VaDJqlVI5HxTe39R+aassso/1RMjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saiku\\source\\repos\\JsonDemo\\JsonDemo\\JsonDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saiku\\.nuget\\packages\\csvhelper\\15.0.8\\csvhelper.15.0.8.nupkg.sha512",
+    "C:\\Users\\saiku\\.nuget\\packages\\json.net\\1.0.23\\json.net.1.0.23.nupkg.sha512",
+    "C:\\Users\\saiku\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\saiku\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
